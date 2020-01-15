@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+教孩子学习中文，一边学，一边教。中文古诗词，古文经典，圣经都是学习的内容。目标是孩子们可以阅读中文书籍，用中文与人无障碍交流，写作。
